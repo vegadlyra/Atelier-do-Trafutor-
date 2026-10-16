@@ -9,15 +9,23 @@ Artur Louro — Escritor · Escultor Ceramista (Alarte Cerâmica Criativa) · Pr
 Durante anos pareceu salganhada. Agora é unidade.
 
 As 5 Bancadas
-Este repo é o Atelier físico transformado em site: https://vegadlyra.github.io/
+Este repo é o Atelier físico transformado em site: https://vegadlyra.github.io/barro/ — Alarte Cerâmica Criativa. Escultura fora da caixa, pin no Google Maps durante anos em 
 
-/barro/ — Alarte Cerâmica Criativa. Escultura fora da caixa, pin no Google Maps durante anos em Caparica
-/palavra/ — Vega D'Lyra / Grande Acordar. showdocontra · assimtabem · saberpormim · Cartas para Filipa. 10 anos sobre mudança de ciclo planetário, Keylontica, Kathara
+Caparica
+
+/palavra/ — Vega D'Lyra / Grande Acordar. showdocontra · assimtabem · saberpormim · Cartas para Filipa.10 anos sobre mudança de ciclo planetário, Keylontica, Kathara
+
 /mesa/ — Mesa Kathara. A arte de Chefe de Sala. Experiências onde se serve tudo à mesma mesa
+
 /ponte/ — Inglaterra. 5 anos como tradutor intérprete e manager numa firma de trabalho temporário. Ponte entre mundos
+
 /codigo/ — Vega Solutions / IntegrarIA. Automação de processos, integração de IA sem mensalidades pesadas, a partir de Almada
-/centro-interior/ — Centro Interior. Guia gratuito de Alinhamento Energético, música SUNO, comunidade Discord Krystalforge
+
+/centro-interior/ — Centro Interior. Guia gratuito de Alinhamento Energético, música SUNO, comunidade 
+Discord Krystalforge
+
 Atelier do Trafutor?
+
 Trafutor com F é erro proposital que ficou. É assinatura fora da caixa. O tradutor que tropeça, que vem do barro, da mesa, de Inglaterra.
 
 Motor
